@@ -9,7 +9,7 @@ Clone this Repository into your home directory to get all the files needed:
 
 ```bash
 cd
-git clone git@github.molgen.mpg.de:ArndtLab/setup-remote-working.git
+git clone git@--git repo--
 cat setup-remote-working/README.md
 ```
 
